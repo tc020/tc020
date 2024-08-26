@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I'm a libraian by profession and data enthusiast. Also there is an M. Sc. in Computer Science (Information Science) incoming as a student at Darmstadt University! \
+💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
+🎓&nbsp;I graduated from Media University, Stuttgart (B.A., focussed on data, 2024).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, XXX, and Data Viszualation.\
+✍️ &nbsp;In my free time, I hike, cooking, watching TV shows and and of course coding my hobbies.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at XXXX@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/XXXX/) for more details about work experience.
+
+
 <br/>
 
 ### Languages and Tools:
@@ -88,3 +100,5 @@ Here are some ideas to get you started:
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 --> 
 <br>
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tc020&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
