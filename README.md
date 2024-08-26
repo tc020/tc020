@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a libraian by profession and data enthusiast. Also there is an M. Sc. in Computer Science (Information Science) incoming as a student at Darmstadt University! \
+💡 &nbsp;I'm a librarian by profession and data enthusiast. Also there is an M. Sc. in Computer Science (Information Science) incoming as a student at Darmstadt University! \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
 🎓&nbsp;I graduated from Media University, Stuttgart (B.A., focussed on data, 2024).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, XXX, and Data Viszualation.\
