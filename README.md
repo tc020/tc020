@@ -1,5 +1,6 @@
-# TC020
-## Librarian; Information Expert; Data enthusiast
+## Hi I'm tc020 - Librarian, Information Expert and Data Enthusiast 👋
+
+I'm a curious-minded German who loves learning something new every day, seeing no problems, only challenges. As a librarian who deals with information in all its forms daily, it's the next challenging step for me to dive into the world of data science.
 
 <!--
 **tc020/tc020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,19 +19,18 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a librarian by profession and data enthusiast. Also there is a M. Sc. in Information Science incoming as a student at Darmstadt University! \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
-🎓&nbsp;I graduated from Media University, Stuttgart (B.A., focussed on data, 2024).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, XXX, and Data Viszualation.\
-✍️ &nbsp;In my free time, I hike, cooking, watching TV shows and and of course coding my hobbies.\
+💡 &nbsp;I'm a scientific librarian by profession and data enthusiast. There is also a M. Sc. in Information Science incoming this year.\
+💻 &nbsp;I'm currently performing research in the field of AI and how to use the technologies in scientific libraries to deal more effectively with the load of data & informations.\
+🎓&nbsp;I graduated from Media University, Stuttgart (B.A., focussed on processing data, 2024).\
+🌱 &nbsp;I'm on track for learning more about Machine Learning, Data Analysis and Data Viszualation.\
+✍️ &nbsp;In my free time, I love to hike, travel, cook, watch TV shows and of course spend a lot of time in coding.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at XXXX@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/XXXX/) for more details about work experience.
+📄 &nbsp;You can check my [LinkedIn]([https://www.linkedin.com/in/XXXX/](https://www.linkedin.com/in/timucin-cicek-1a7974226/)) for more details about work experience.
+<!--✉️ &nbsp;You can email me at timucin.cicek@gmx.com. I'll try to respond as soon as possible!\-->
 
+<ins>Technologies I've been learning and using so far: </ins>
 
-<br/>
-
-### Languages:
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/R-black?style=flat&logo=R)
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
 ![Django](https://img.shields.io/badge/Django-black?style=flat&logo=django)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90&logoSize=auto)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
