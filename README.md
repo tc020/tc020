@@ -32,23 +32,17 @@ Here are some ideas to get you started:
 
 ### Programming Languages:
 
-<br>
-
-![Static Badge](https://img.shields.io/badge/LangChain-black?style=flat&logo=langchain&logoSize=auto)
-<br>
-
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Assembler](https://img.shields.io/badge/Assembler-black?style=flat&logo=pastebin&logoSize=auto)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### Technologies
 
+![Lang Chain](https://img.shields.io/badge/LangChain-black?style=flat&logo=langchain&logoSize=auto)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -60,7 +54,11 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Full Stack Projects
+### Tools
+
+VS Code, PyCharm, JupyterLab, Anaconda, KNIME, Eclipse
+
+### Projects
 
 
 <br />
