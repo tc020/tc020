@@ -33,38 +33,55 @@ Here are some ideas to get you started:
 ### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Assembler](https://img.shields.io/badge/Assembler-black?style=flat&logo=pastebin&logoSize=auto)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-html
-css
+![HTML](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
 
 
-### Data Vizualiation
+### Data Visualization
 
-KNIME, Vega-Altair, Bootstrap, Gradio, Flask, Quarto?, Streamlit
+![Vega-Altair](https://img.shields.io/badge/Vega--Altair-black?style=flat&logoSize=auto)
+![KNIME](https://img.shields.io/badge/KNIME-black?style=flat&logo=knime&logoSize=auto)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoSize=auto)
+![Gradio](https://img.shields.io/badge/Gradio-black?style=flat&logoSize=auto)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoSize=auto)
+![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat&logo=streamlit&logoSize=auto)
+![Quarto](https://img.shields.io/badge/Quarto-black?style=flat&logo=quarto&logoSize=auto)
 
-### Technologies
+### Machine Learning / Deep Learning Technologies
 
-Django
 ![Lang Chain](https://img.shields.io/badge/LangChain-black?style=flat&logo=langchain&logoSize=auto)
+![MS Semantic Kernel](https://img.shields.io/badge/Microsoft%20Semantic%20Kernel-black?style=flat&logoSize=auto)
+![Hugging Face API](https://img.shields.io/badge/Hugging%20Face%20API-black?style=flat&logo=huggingface&logoSize=auto)
+![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-black?style=flat&logo=jupyter)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-black?style=flat&logo=openai)
+![Static Badge](https://img.shields.io/badge/Vertex%20AI-black?style=flat&logoSize=auto)
+
+### More Technologies
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![Django](https://img.shields.io/badge/Django-black?style=flat&logo=django)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ### Tools
 
-VS Code, PyCharm, JupyterLab, Anaconda, KNIME, Eclipse
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat)
+![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm&logoSize=auto)
+![Anaconda](https://img.shields.io/badge/Anaconda-black?style=flat&logo=anaconda)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-black?style=flat&logo=eclipseide&logoSize=auto)
+
 
 ### Projects
 
