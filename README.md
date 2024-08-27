@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 📄 &nbsp;You can check my [LinkedIn]([https://www.linkedin.com/in/XXXX/](https://www.linkedin.com/in/timucin-cicek-1a7974226/)) for more details about work experience.
 <!--✉️ &nbsp;You can email me at timucin.cicek@gmx.com. I'll try to respond as soon as possible!\-->
 
+#
+
 <ins>Technologies I've been learning and using so far: </ins>
 
 ### Languages
@@ -82,8 +84,13 @@ Here are some ideas to get you started:
 ![Anaconda](https://img.shields.io/badge/Anaconda-black?style=flat&logo=anaconda)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-black?style=flat&logo=eclipseide&logoSize=auto)
 
+#
+
+### Certifications ? 
 
 ### Projects
+
+### Contact ?
 
 <!--
 <a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
