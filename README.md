@@ -30,18 +30,26 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Programming Languages:
+### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Assembler](https://img.shields.io/badge/Assembler-black?style=flat&logo=pastebin&logoSize=auto)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+html
+css
+
+
+### Data Vizualiation
+
+KNIME, Vega-Altair, Bootstrap, Gradio, Flask, Quarto?, Streamlit
 
 ### Technologies
 
+Django
 ![Lang Chain](https://img.shields.io/badge/LangChain-black?style=flat&logo=langchain&logoSize=auto)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
