@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #
 
-<ins>Technologies I've been learning and using so far: </ins>
+### <ins>Technologies I've been learning and using so far: </ins>
 
 ### Languages
 
