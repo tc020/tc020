@@ -92,19 +92,9 @@ Here are some ideas to get you started:
 
 ### Contact ?
 
-<img
-  src="https://github.com/tc020/tc020/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
+<img src="https://github.com/tc020/tc020/blob/main/images/stat.svg" alt="Alternative Text"/>
 Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-
-<!--
-<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
---> 
+<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 <br />
 <!--
