@@ -86,14 +86,19 @@ Here are some ideas to get you started:
 
 #
 
-### Certifications ? 
-
 ### Projects
 
-### Contact ?
+None yet
+
+#
 
 <img src="https://github.com/tc020/tc020/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 <!--
+
+### Certifications ? 
+
+### Contact ?
+
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 --> 
