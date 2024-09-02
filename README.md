@@ -90,8 +90,6 @@ Here are some ideas to get you started:
 
 ### Projects
 
-test
-
 ### Contact ?
 
 <img src="https://github.com/tc020/tc020/blob/main/images/stat.svg" alt="Alternative Text"/>
