@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 ### Projects
 
-Coming soon..
+Fake News Classification, Pen & Paper Story Elements Generator, ...
 
 #
 
