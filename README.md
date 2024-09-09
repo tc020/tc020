@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Data Analysis and Data Viszualation.\
 ✍️ &nbsp;In my free time, I love to hike, travel, cook, watch TV shows and of course spend a lot of time in coding.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-📄 &nbsp;You can check my [LinkedIn]([https://www.linkedin.com/in/XXXX/](https://www.linkedin.com/in/timucin-cicek-1a7974226/)) for more details about work experience.
-<!--✉️ &nbsp;You can email me at timucin.cicek@gmx.com. I'll try to respond as soon as possible!\-->
+<!--- 📄 &nbsp;You can check my [LinkedIn]([https://www.linkedin.com/in/XXXX/](https://www.linkedin.com/in/timucin-cicek-1a7974226/)) for more details about work experience. -->
+<!--✉️ &nbsp;You can email me at timucin.cicek@gmx.com. I'll try to respond as soon as possible!\ -->
 
 #
 
