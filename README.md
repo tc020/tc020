@@ -66,6 +66,10 @@ Here are some ideas to get you started:
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-black?style=flat&logo=openai)
 ![Static Badge](https://img.shields.io/badge/Vertex%20AI-black?style=flat&logoSize=auto)
 
+### Natural Language Processing
+
+![NLTK](https://img.shields.io/badge/NLTK-black?style=flat)
+
 ### Other Technologies
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
