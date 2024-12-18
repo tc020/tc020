@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 ### [CURRENTLY LEARNING] Natural Language Proccessing .........................
 
 ![NLTK](https://img.shields.io/badge/NLTK-black?style=flat)
+![spaCy](https://img.shields.io/badge/spaCy-black?style=flat)
 
 ### Other Technologies
 
