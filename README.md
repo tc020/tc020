@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 
 ![NLTK](https://img.shields.io/badge/NLTK-black?style=flat)
 ![spaCy](https://img.shields.io/badge/spaCy-black?style=flat)
+![Gensim](https://img.shields.io/badge/Gensim-black?style=flat)
 
 ### Other Technologies
 
