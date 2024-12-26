@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-black?style=flat&logo=openai)
 ![Static Badge](https://img.shields.io/badge/Vertex%20AI-black?style=flat&logoSize=auto)
 
-### [CURRENTLY LEARNING] Natural Language Proccessing ............................
+### [CURRENTLY LEARNING] Natural Language Proccessing .............................
 
 ![NLTK](https://img.shields.io/badge/NLTK-black?style=flat)
 ![spaCy](https://img.shields.io/badge/spaCy-black?style=flat)
