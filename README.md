@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 Fake News Classification, Pen & Paper Story Elements Generator, NLP, ...
 
 #
-I spent at all [wakatime](https://wakatime.com/badge/user/7371dc22-b0f7-4276-b695-1200f09879db.svg) in coding.
+
 My coding activity the last seven days:
 <img src="https://github.com/tc020/tc020/blob/main/images/stat.svg" alt="Alternative Text"/>
 
