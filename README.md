@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 ### Projects
 
-Fake News Classification, Pen & Paper Story Elements Generator, NLP, ...
+Fake News Classification, Pen & Paper Story Elements Generator, ...
 
 #
 
