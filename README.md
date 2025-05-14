@@ -69,11 +69,12 @@ Here are some ideas to get you started:
 ### [CURRENTLY LEARNING] Text Mining / Natural Language Proccessing ....
 
 ![NLTK](https://img.shields.io/badge/NLTK-black?style=flat)
-![spaCy](https://img.shields.io/badge/spaCy-black?style=flat)
+![spaCy](https://img.shields.io/badge/spaCy-black?style=flat&logo=spacy)
 ![Gensim](https://img.shields.io/badge/Gensim-black?style=flat)
 
 ### Other Technologies
 
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
 ![Django](https://img.shields.io/badge/Django-black?style=flat&logo=django)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90&logoSize=auto)
@@ -86,6 +87,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat)
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm&logoSize=auto)
 ![Anaconda](https://img.shields.io/badge/Anaconda-black?style=flat&logo=anaconda)
+![JupyterNotebooks](https://img.shields.io/badge/Jupyter%20Notebooks-black?style=flat&logo=jupyter)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-black?style=flat&logo=eclipseide&logoSize=auto)
 
 #
