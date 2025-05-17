@@ -64,7 +64,8 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-black?style=flat&logo=openai)
-![Static Badge](https://img.shields.io/badge/Vertex%20AI-black?style=flat&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Vertex%20AI-black?style=flat&logoSize=vertexai)
+![AutoGluon](https://img.shields.io/badge/AutoGluon-black?style=flat&logo=autogluon)
 
 ### [CURRENTLY LEARNING] Text Mining / Natural Language Proccessing ....
 
