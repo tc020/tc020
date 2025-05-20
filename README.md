@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 ### Projects
 
-Fake News Classification, Pen & Paper Story Elements Generator, ...
+Fake News Classification, Pen & Paper Story Elements Generator, Stock Predictor ...
 
 #
 
