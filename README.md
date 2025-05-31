@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ### Data Visualization
 
 ![Vega-Altair](https://img.shields.io/badge/Vega--Altair-black?style=flat&logoSize=auto)
+![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat&logoSize=auto)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoSize=auto)
 ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat&logoSize=auto)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoSize=auto)
