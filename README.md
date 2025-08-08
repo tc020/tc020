@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-:man: &nbsp;I'm a scientific librarian by profession and data enthusiast. There is also a M. Sc. in Information Science 2026 incoming.\
+:man: &nbsp;I'm a scientific librarian by profession and data enthusiast. There is also a M. Sc. in Information Science in progress.\
 💻 &nbsp;I'm currently performing research in the field of AI and how to use the technologies in scientific libraries to deal more effectively with the load of data & informations.\
 🎓&nbsp;I graduated from Media University, Stuttgart (B.A., focussed on processing data, 2024).\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Data Analysis and Data Viszualation.\
