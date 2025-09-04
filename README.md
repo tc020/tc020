@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Vertex%20AI-black?style=flat&logoSize=vertexai)
 ![AutoGluon](https://img.shields.io/badge/AutoGluon-black?style=flat&logo=autogluon)
 
-### [CURRENTLY LEARNING] Text Mining / Natural Language Proccessing ....
+### [CURRENTLY LEARNING] Text Mining / Natural Language Proccessing .....
 
 ![NLTK](https://img.shields.io/badge/NLTK-black?style=flat)
 ![spaCy](https://img.shields.io/badge/spaCy-black?style=flat&logo=spacy)
