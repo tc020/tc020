@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
 
+### Data Handling
+
+![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoSize=auto)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoSize=auto)
+![Polars](https://img.shields.io/badge/Polars-black?style=flat&logo=polars&logoSize=auto)
 
 ### Data Visualization
 
@@ -58,6 +63,7 @@ Here are some ideas to get you started:
 
 ### Machine Learning / Deep Learning Technologies
 
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-black?style=flat&logo=scikit-learn&logoSize=auto)
 ![Lang Chain](https://img.shields.io/badge/LangChain-black?style=flat&logo=langchain&logoSize=auto)
 ![MS Semantic Kernel](https://img.shields.io/badge/Microsoft%20Semantic%20Kernel-black?style=flat&logoSize=auto)
 ![Hugging Face API](https://img.shields.io/badge/Hugging%20Face%20API-black?style=flat&logo=huggingface&logoSize=auto)
@@ -65,7 +71,7 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-black?style=flat&logo=openai)
-![Static Badge](https://img.shields.io/badge/Vertex%20AI-black?style=flat&logoSize=vertexai)
+![VertexAI](https://img.shields.io/badge/Vertex%20AI-black?style=flat&logoSize=vertexai)
 ![AutoGluon](https://img.shields.io/badge/AutoGluon-black?style=flat&logo=autogluon)
 
 ### [CURRENTLY LEARNING] Text Mining / Natural Language Proccessing .....
